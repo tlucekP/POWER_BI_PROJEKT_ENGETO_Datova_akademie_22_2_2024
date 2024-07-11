@@ -21,4 +21,4 @@ Vizualizaci jsem strukturoval do dvou listů podle požadovaných dat k zobrazen
 
 Discord: Tlucek#0754
 
-> Tato PBI vizualizace je mé vlastní dílo v rámci studentského projektu. Nevyužívejte ji jako zdroj pro veřejné publikace! Zdrojová data nejsou kompletní, obsažená data jsou pouze ta data, která v daném čase výrobce nebo developer zveřejnil. Nevyužívejte tento report pro své obchodní nebo marketingové účely! Za správnost dat nenesu žádnou odpovědnost.
+> Tato PBI vizualizace je mé vlastní dílo v rámci studentského projektu. Nevyužívejte ji jako zdroj pro veřejné publikace! Zdrojová data nejsou kompletní, obsažená data jsou pouze ta data, která v daném čase výrobce, developer nebo distributor zveřejnil a byla/jsou veřejně dostupná. Nevyužívejte tento report pro své obchodní nebo marketingové účely! Za správnost dat nenesu žádnou odpovědnost.
